@@ -126,6 +126,10 @@ img#hamburger {
     display: none;
 }
 
+#input-btn {
+    display: none;
+}
+
 nav ul {
     margin-right: 1em;
 }
@@ -371,6 +375,7 @@ hr {
         height: 30px;
         right: 9%;
         opacity: 0;
+        display: block;
     }
 
     #input-btn:checked~nav {
