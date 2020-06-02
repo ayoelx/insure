@@ -290,7 +290,7 @@ hr {
     width: 80%;
 }
 
-.links ul > a {
+.li-head {
     margin-bottom: 2em;
     color: var(--dark-grayish-violet);
     font-weight: 700;
@@ -380,6 +380,10 @@ hr {
 
     #input-btn:checked~nav {
         visibility: visible;
+    }
+
+    #input-btn:checked+header {
+        position: fixed;
     }
 
     nav.flex > * {
