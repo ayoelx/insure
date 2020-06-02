@@ -382,10 +382,6 @@ hr {
         visibility: visible;
     }
 
-    #input-btn:checked+header {
-        position: fixed;
-    }
-
     nav.flex > * {
         margin: 0 auto;
     }
