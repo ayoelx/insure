@@ -290,7 +290,7 @@ hr {
     width: 80%;
 }
 
-.li-head {
+.links .li-head {
     margin-bottom: 2em;
     color: var(--dark-grayish-violet);
     font-weight: 700;
