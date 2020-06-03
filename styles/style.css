@@ -314,6 +314,11 @@ hr {
     text-decoration: underline;
 }
 
+svg:hover path {
+    fill: var(--dark-violet);
+    cursor: pointer;
+}
+
 
 /* MEDIA QUERIES */
 
