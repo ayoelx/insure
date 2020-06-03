@@ -316,7 +316,6 @@ hr {
 
 svg:hover path {
     fill: var(--dark-violet);
-    cursor: pointer;
 }
 
 
